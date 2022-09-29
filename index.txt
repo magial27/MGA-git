@@ -3,3 +3,4 @@
     <li>Pas 1: Inicialitzar el repositori: git init
 </ul>
 <p>Hola soy Marc Gimenez</p>
+hola de nuevo
